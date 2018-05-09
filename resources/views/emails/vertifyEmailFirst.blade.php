@@ -1,0 +1,1 @@
+<h1>Vertify Email To Activate Accout</h1>
